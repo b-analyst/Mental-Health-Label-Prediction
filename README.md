@@ -29,5 +29,5 @@ Then, I web scraped for additional data from mentalhealthforum.com which luckily
 - Matthew's Correlation Coefficient
 - Hamming Loss
 
-## I am constantly developing the codes & documentations so please bear with me if there is a disconnect -- the project has evolved beyond what I originally planned.
+## I am constantly developing the codes & documentations so please bear with me if there is a disconnect -- the project has evolved beyond what I had originally planned.
 
