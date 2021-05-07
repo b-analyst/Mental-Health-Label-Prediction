@@ -37,8 +37,4 @@ Then, I web scraped for additional data from mentalhealthforum.com which luckily
 
 
 
-
-
-
-
-![W B Chart 5_6_2021, 3_04_30 PM](https://user-images.githubusercontent.com/52942856/117498450-ac5c0400-af2e-11eb-9c8b-340ef78ac803.png)
+![wordcloud](https://user-images.githubusercontent.com/52942856/117498694-fc3acb00-af2e-11eb-97dd-912a211aa274.png)
