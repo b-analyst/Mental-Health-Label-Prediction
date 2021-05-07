@@ -31,3 +31,14 @@ Then, I web scraped for additional data from mentalhealthforum.com which luckily
 
 ## I am constantly developing the codes & documentations so please bear with me if there is a disconnect -- the project has evolved beyond what I had originally planned.
 
+
+
+
+
+
+
+
+
+
+
+![W B Chart 5_6_2021, 3_04_30 PM](https://user-images.githubusercontent.com/52942856/117498450-ac5c0400-af2e-11eb-9c8b-340ef78ac803.png)
