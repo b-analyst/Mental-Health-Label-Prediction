@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Mental Heatlh Label Prediction, A Multiclass Classification.
 
 Welcome to my repository! This repository contains the codes and documentations for my data science projects.
 
