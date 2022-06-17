@@ -1,10 +1,10 @@
-# Mental Heatlh Label Prediction, A Multiclass Classification.
+# Mental Heatlh Blog Prediction, A Multiclass Classification.
 
 Welcome to my repository! This repository contains the codes and documentations for my data science projects.
 
 ## Project Overview:
 
-Capstone 1 and 2 are variations of one overarching project, which is to build a multiclass classifier capable of distinguishing mental health diagnoses from text excerpts.
+Capstone 1 and 2 are variations of one overarching project, which is to build a multiclass classifier capable of distinguishing mental health blogs from text excerpts.
 
 ## Data Source:
 
