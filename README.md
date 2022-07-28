@@ -8,7 +8,7 @@ Capstone 1 and 2 are variations of one overarching project, which is to build a 
 
 ## Data Source:
 
-Since a dataset containing text excerpts from individuals living with a mental health condition does not exist, I had to build my own. I did this by extracting data from subreddits on the six classes I chose:
+Since a dataset containing text excerpts from individuals living with a mental health condition does not publicly exist, I had to build my own. I did this by extracting data from subreddits on the six classes I chose:
 - r/depression
 - r/ptsd
 - r/cptsd
