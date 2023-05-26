@@ -4,7 +4,7 @@ Welcome to my repository! This repository contains the codes and documentations 
 
 ## Project Overview:
 
-Capstone 1 and 2 are variations of one overarching project, which is to build a multiclass classifier capable of distinguishing mental health blogs from text excerpts.
+Capstone 1 and 2 are variations of one overarching project, which is to build a multiclass classifier capable of distinguishing mental health symptoms from text excerpts.
 
 ## Data Source:
 
