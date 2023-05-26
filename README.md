@@ -1,4 +1,4 @@
-# Mental Heatlh Blog Prediction, A Multiclass Classification.
+# Mental Heatlh Symptoms Multiclass Classification.
 
 Welcome to my repository! This repository contains the codes and documentations for my data science projects.
 
@@ -28,8 +28,6 @@ Then, I web scraped for additional data from mentalhealthforum.com which luckily
 - Sklearn Classification_Report (f1 score, precision, recall, and accuracy)
 - Matthew's Correlation Coefficient
 - Hamming Loss
-
-## I am constantly developing the codes & documentations so please bear with me if there is a disconnect -- the project has evolved beyond what I had originally planned.
 
 
 
